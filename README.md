@@ -3,7 +3,7 @@
 ## I'm Marcos Laporte, a Junior Developer.
 - <a href="https://utn.edu.ar/es/" target="_blank">UTN</a> graduate, focused on Web Development and Object-Oriented Programming.
 - Passionate about technology and programming.
-- 🌱 Currently learning <b>Java</b> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24px">
+- 🌱 Currently learning <b>Java</b> <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 24px">
 
 <p align="middle">
   <a href="mailto:laportedev@gmail.com" target="_blank"> 
